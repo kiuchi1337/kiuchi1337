@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Praise The Sun \`[T] /
+# Praise The Sun \\`[T] /
 
 <!--
 **kiuchi1337/kiuchi1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
