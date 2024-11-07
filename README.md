@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Praise The Sun \\`[T] /
 
 <!--
